@@ -16,4 +16,5 @@ Another drawback would be that some of the 'Comments' section is not entirely un
 For example:
 ![1](https://github.com/carrotdip/UFOs/blob/main/Screen%20Shot%202022-01-15%20at%205.22.57%20PM.png)\
 ![2](https://github.com/carrotdip/UFOs/blob/main/Screen%20Shot%202022-01-15%20at%205.23.05%20PM.png)
-The webpage does not appear professional or completed due to these small errors. I would recommend fixing these drawbacks in order to further advance this webpage and make it ready to be deployed.
+The webpage does not appear professional or completed due to these small errors.\
+The sources for each of these UFO sightings are not displayed. In order for the webpage to appear more credible and prominent, I would supply that information somewhere. I would recommend fixing these drawbacks in order to further advance this webpage and make it ready to be deployed.
