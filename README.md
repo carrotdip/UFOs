@@ -11,7 +11,7 @@ The following search results are for California, or 'CA'.
 Multiple inputs can also be used to filter the results.
 ![both](https://github.com/carrotdip/UFOs/blob/main/Screen%20Shot%202022-01-15%20at%205.04.37%20PM.png)
 ## Summary
-One drawback of this webpage is that the input needs to be in a specific format in order for it to be recognized. For example, the state needs to be entered in as the two-character common abbreviation (i.e. 'CA','AZ', etc.). If 'California' was inputted, none of the search results would appear. The same goes for each input. One cannot filter the results with a description of the shape as 'heart' or 'light beam'. 
+One drawback of this webpage is that the input needs to be in a specific format in order for it to be recognized. For example, the state needs to be entered in as the two-character common abbreviation (i.e. 'CA','AZ', etc.). If 'California' was inputted, none of the search results would appear. The same goes for each input. One cannot filter the results with a description of the shape as 'heart' or 'light beam'. \
 Another drawback would be that some of the 'Comments' section is not entirely uniform. Because the data was scraped from different web sources, some of the comments have extraneous characters that do not belong. 
 For example:
 ![1](https://github.com/carrotdip/UFOs/blob/main/Screen%20Shot%202022-01-15%20at%205.22.57%20PM.png)\
